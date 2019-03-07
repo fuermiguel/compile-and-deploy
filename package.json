@@ -1,0 +1,22 @@
+{
+  "name": "compile-and-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuermiguel/compile-and-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuermiguel/compile-and-deploy/issues"
+  },
+  "homepage": "https://github.com/fuermiguel/compile-and-deploy#readme",
+  "devDependencies": {
+    "solc": "^0.4.24"
+  }
+}
